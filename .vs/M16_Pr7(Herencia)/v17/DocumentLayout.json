@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Deures\\M16\\Git\\Herencia-UF3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B5E09B-EC85-4F9D-A2CD-E39498BE38DE}|M16_Pr7(Herencia).vcxproj|D:\\Deures\\M16\\Git\\Herencia-UF3\\Main_Juego.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3B5E09B-EC85-4F9D-A2CD-E39498BE38DE}|M16_Pr7(Herencia).vcxproj|solutionrelative:Main_Juego.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B5E09B-EC85-4F9D-A2CD-E39498BE38DE}|M16_Pr7(Herencia).vcxproj|D:\\Deures\\M16\\Git\\Herencia-UF3\\Personaje.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3B5E09B-EC85-4F9D-A2CD-E39498BE38DE}|M16_Pr7(Herencia).vcxproj|solutionrelative:Personaje.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B5E09B-EC85-4F9D-A2CD-E39498BE38DE}|M16_Pr7(Herencia).vcxproj|D:\\Deures\\M16\\Git\\Herencia-UF3\\Personaje.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3B5E09B-EC85-4F9D-A2CD-E39498BE38DE}|M16_Pr7(Herencia).vcxproj|solutionrelative:Personaje.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B5E09B-EC85-4F9D-A2CD-E39498BE38DE}|M16_Pr7(Herencia).vcxproj|D:\\Deures\\M16\\Git\\Herencia-UF3\\EnemigoFinal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3B5E09B-EC85-4F9D-A2CD-E39498BE38DE}|M16_Pr7(Herencia).vcxproj|solutionrelative:EnemigoFinal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B5E09B-EC85-4F9D-A2CD-E39498BE38DE}|M16_Pr7(Herencia).vcxproj|D:\\Deures\\M16\\Git\\Herencia-UF3\\EnemigoFinal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3B5E09B-EC85-4F9D-A2CD-E39498BE38DE}|M16_Pr7(Herencia).vcxproj|solutionrelative:EnemigoFinal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Personaje.h",
+              "DocumentMoniker": "D:\\Deures\\M16\\Git\\Herencia-UF3\\Personaje.h",
+              "RelativeDocumentMoniker": "Personaje.h",
+              "ToolTip": "D:\\Deures\\M16\\Git\\Herencia-UF3\\Personaje.h",
+              "RelativeToolTip": "Personaje.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-29T11:55:38.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Personaje.cpp",
+              "DocumentMoniker": "D:\\Deures\\M16\\Git\\Herencia-UF3\\Personaje.cpp",
+              "RelativeDocumentMoniker": "Personaje.cpp",
+              "ToolTip": "D:\\Deures\\M16\\Git\\Herencia-UF3\\Personaje.cpp",
+              "RelativeToolTip": "Personaje.cpp",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-29T11:55:43.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main_Juego.cpp",
+              "DocumentMoniker": "D:\\Deures\\M16\\Git\\Herencia-UF3\\Main_Juego.cpp",
+              "RelativeDocumentMoniker": "Main_Juego.cpp",
+              "ToolTip": "D:\\Deures\\M16\\Git\\Herencia-UF3\\Main_Juego.cpp",
+              "RelativeToolTip": "Main_Juego.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-29T11:55:41.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemigoFinal.cpp",
+              "DocumentMoniker": "D:\\Deures\\M16\\Git\\Herencia-UF3\\EnemigoFinal.cpp",
+              "RelativeDocumentMoniker": "EnemigoFinal.cpp",
+              "ToolTip": "D:\\Deures\\M16\\Git\\Herencia-UF3\\EnemigoFinal.cpp",
+              "RelativeToolTip": "EnemigoFinal.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-29T11:55:41.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemigoFinal.h",
+              "DocumentMoniker": "D:\\Deures\\M16\\Git\\Herencia-UF3\\EnemigoFinal.h",
+              "RelativeDocumentMoniker": "EnemigoFinal.h",
+              "ToolTip": "D:\\Deures\\M16\\Git\\Herencia-UF3\\EnemigoFinal.h",
+              "RelativeToolTip": "EnemigoFinal.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-29T11:55:31.688Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

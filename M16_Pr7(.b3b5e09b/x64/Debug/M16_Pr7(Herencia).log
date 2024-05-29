@@ -1,6 +1,6 @@
 ﻿  Enemigo.cpp
-  EnemigoFinal.cpp
 /Enemigo.cpp(1,1): error C1083: No se puede abrir el archivo origen: 'Enemigo.cpp': No such file or directory
+  EnemigoFinal.cpp
   Main_Juego.cpp
   Personaje.cpp
   Generando código...

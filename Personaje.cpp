@@ -10,6 +10,7 @@ std::string Heroe::getNombre()
 void Heroe::setNombre(string NombreHeroe)
 {
 	nombre = NombreHeroe;
+
 }
 
 int Heroe::getVida()
